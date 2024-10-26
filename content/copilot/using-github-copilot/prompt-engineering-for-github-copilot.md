@@ -1,4 +1,4 @@
----
+--
 title: Prompt engineering for GitHub Copilot
 shortTitle: Prompt engineering
 intro: 'Follow these strategies to improve your {% data variables.product.prodname_copilot_short %} results.'
